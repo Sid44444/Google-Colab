@@ -1,5 +1,6 @@
 # Google-Colab
-First Google Colab project using load_diabetes
+First Google Colab project using load_diabetes.
+
 Dataset can be found here: https://scikit-learn.org/stable/api/sklearn.datasets.html
 
 Initially it was necessary to understand a little more about the data provided. 
@@ -34,3 +35,7 @@ An example of data is provided below.
 
 <img width="884" height="357" alt="Screenshot 2026-02-25 at 15 05 44" src="https://github.com/user-attachments/assets/3ba558f6-9217-4d11-a244-145730e348e3" />
 
+Activity
+I will train several regression models to predict the disease progression after one year.
+
+Ten baseline variables, age, sex, body mass index, average blood pressure, and six blood serum measurements were obtained for each of the 442 patients.
